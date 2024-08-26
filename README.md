@@ -1,5 +1,6 @@
 # Stoic-RPHost-Bot
 A Simple Roll call bot
+![image](https://github.com/user-attachments/assets/1414b4f5-3d6c-469e-981b-277cebc2ca7f)
 
 This Discord bot allows you to create patrol announcements with a customizable time and image. It includes interactive buttons to mark attendance and is designed for use with Discord's Slash Commands.
 
