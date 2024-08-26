@@ -34,6 +34,7 @@ First, clone the repository to your local machine or Download ZIP:
 Navigate to the project directory and install the required dependencies:
 
 `npm install`
+`npm install moment-timezone`
 
 ### 3. Create a `.env` File
 
