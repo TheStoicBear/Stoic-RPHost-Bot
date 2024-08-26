@@ -39,9 +39,12 @@ Navigate to the project directory and install the required dependencies:
 Create a `.env` file in the root of the project directory and add the following content:
 
 `BOT_TOKEN=your-discord-bot-token`
-`GUILD_ID=your-guild-id
+`GUILD_ID=your-guild-id`
+
 Replace `your-discord-bot-token` with the actual token you obtained from Discord's developer portal.
+
 Replace `your-guild-i` with the actual GuildID you obtained from your discord server.
+
 ### 4. Run the Bot
 
 Start the bot using Node.js:
